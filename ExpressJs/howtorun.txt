@@ -1,0 +1,6 @@
+- Open cmd /mongodb/bin. Run mongod --dbpath path (example: D:\mongodb)
+- Open cmd /mongodb/bin. Run mongo command. (starting MongoDb)
+- Create a MongoDB called customerapp
+- add a collection called users
+- Open cmd /projectfolder Run node (example nodemon)
+- Open browser http://localhost:3000/
