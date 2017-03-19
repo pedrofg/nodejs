@@ -1,6 +1,6 @@
 # nodejs-samples
 
 
-NodeJs learning samples.
+NodeJs samples.
 
 Feel free to help me improve samples database.
